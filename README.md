@@ -18,8 +18,8 @@ Using the slicing concept rotate the list
 print the values after circulating.
 ### Step 6: 
 end the program
-## Program:
 ```
+## Program:
 #Program to circulate N values.
 #Developed by:vasundra sri.R 
 #RegisterNumber:212222230168
@@ -29,14 +29,8 @@ def circulate():
     l=l[n: ]+l[ :n]
     print("After circulating the values are:",l)
     ```
-    ```
-
+    
 ## Output:
-
-
-
-
-
 
 ![Screenshot 2023-03-21 125202](https://user-images.githubusercontent.com/119393983/226540955-c057dec6-d9fb-40a3-b38f-b9fc929c5723.png)
 
